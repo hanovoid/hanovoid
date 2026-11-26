@@ -49,7 +49,6 @@ I design clean, low-overhead engineering systems with zero runtime bloat: native
 | ⚡ [**novoid-core**](https://github.com/hanovoid/novoid-core) | High-performance proxy engine translating **Anthropic Messages API** to **Google Cloud Code** with HTTP/2 pooling, multi-account OAuth load balancing, and an embedded WebUI. | `Rust` `Axum` `HTTP/2` `rust-embed` |
 | 🔀 [**novoid-proxy**](https://github.com/hanovoid/novoid-proxy) | 2-tier AI proxy & smart `novoid-*` tier router unifying **Anthropic & OpenAI APIs** with per-group failover for OpenCode, Claude Code, Aider, Codex CLI, Goose & Crush. | `Rust` `Tokio` `Reqwest` `SSE` |
 | 🧠 [**novoid-decompiler-system**](https://github.com/hanovoid/novoid-decompiler-system) | Systematic reverse-engineering rules, safety boundaries & unified AI agent skill for multi-layer obfuscators, custom VMs, and Python bytecode recovery. | `Python ABI` `AST` `AI Skills` `CLI` |
-| ☕ [**MuongCaPhe**](https://github.com/hanovoid/MuongCaPhe) | Clean, responsive web showcase built with semantic markup and modern frontend layout. | `HTML` `CSS` |
 
 ---
 
